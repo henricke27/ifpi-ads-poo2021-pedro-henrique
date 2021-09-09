@@ -1,0 +1,6 @@
+1) 
+    a) Não compila, pois a variável "a" foi inicializada como number. Logo, não poderá ser feita a atribuição de um valor do tipo string.
+
+    b) Compila, pois não ocorre a checagem de tipo em variáveis declaradas como any. Logo, pode ser feito a atribuição de valores de diferentes tipos. Mas também compila pelo motivo de que os valores recebidos por b são inteiros (Desde que "b" seja do tipo number ou any). 
+
+    c) Compila, pois a variável "c" é inicializada como number, e recebe na linha seguinte um valor do mesmo tipo.
