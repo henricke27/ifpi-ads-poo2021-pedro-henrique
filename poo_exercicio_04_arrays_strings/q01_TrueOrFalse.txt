@@ -1,0 +1,15 @@
+Primeira questão;
+    a. (false) Objetos são modelos para classes;
+    b. (false) Atributos de uma classe devem ser obrigatoriamente inicializados para
+que as classes compilem;
+    c. (true) Uma classe de cadastro é responsável por manter o controle de outras
+classes mais simples, que chamamos de classes básicas;
+    d. (false) Uma variável declarada dentro de um método deve ser inicializada para
+que a classe seja compilável;
+    e. (true) Uma variável que seja uma classe declarada em um método é
+automaticamente inicializada com null;
+    f. (true) Construtores são rotinas especiais que servem para inicializar e
+configurar os objetos no momento da instanciação;
+    g. (true) Construtores não possuem tipo de retorno e podem ou não ter
+parâmetros;
+    h. (true) Uma classe pode ter várias instâncias;
